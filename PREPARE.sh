@@ -17,5 +17,5 @@ sudo apt install -y lld
 sudo apt install -y wget
 wget https://apt.llvm.org/llvm.sh
 chmod +x llvm.sh
-sudo ./llvm.sh 20
+sudo ./llvm.sh 21
 echo "All essential packages has been installed."
