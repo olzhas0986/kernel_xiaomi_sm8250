@@ -16,7 +16,7 @@ KERNEL_DIR=$MAINPATH
 KERNEL_PATH=$KERNEL_DIR/kernel_xiaomi_sm8250
 
 # Каталоги компиляторов
-CLANG_DIR=/lib/llvm-20
+CLANG_DIR=/lib/llvm-21
 ANDROID_PREBUILTS_GCC_ARM_DIR=$KERNEL_DIR/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9
 ANDROID_PREBUILTS_GCC_AARCH64_DIR=$KERNEL_DIR/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9
 
