@@ -59,7 +59,7 @@ export ARCH=arm64
 if [ "$DEVICE" = "munch" ]; then
     PURE_KERNEL_DIR="$KERNEL_DIR/PureKernel"
 else
-    PURE_KERNEL_DIR="$KERNEL_DIR/PureKernel2"
+    PURE_KERNEL_DIR="$KERNEL_DIR/PK"
 fi
 
 # Создание каталога PureKernel, если его нет
